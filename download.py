@@ -81,4 +81,4 @@ def get_data(tic):
 
 
 if __name__ == "__main__":
-    get_data('tsla')
+    get_data('aapl')
